@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		5uCgUlqLB6MzGqQU5fn2bPvU5vo=
+		y/OLDE5NaQ13inEQWSVECwFsWdw=
 		</data>
 		<key>Resources/Data/Managed/Cinemachine.dll</key>
 		<data>
@@ -374,11 +374,11 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		RFohVf2adZAxBV+dw1WsT17FNqo=
+		rA5BzCF8r0vECUC9GU7i72MshYU=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
-		eKLEQVC88t6MiJwQnADbxtg2mtc=
+		vifPz6IkdhcD49tSKuNjerzl6ro=
 		</data>
 		<key>Resources/Data/level0</key>
 		<data>
@@ -386,7 +386,7 @@
 		</data>
 		<key>Resources/Data/level1</key>
 		<data>
-		mDTwDbpaDqN/svOz1mCdrvR4h9U=
+		MoaTqNvM3FWzwbo0fn23ExBp1z8=
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
@@ -398,7 +398,7 @@
 		</data>
 		<key>Resources/Data/sharedassets0.assets</key>
 		<data>
-		jEYvU8g4XgMGT0DHvY18SOAoON4=
+		NHymsYUM/gwvI34u9iJfCJthRiI=
 		</data>
 		<key>Resources/Data/sharedassets0.assets.resS</key>
 		<data>
@@ -410,7 +410,7 @@
 		</data>
 		<key>Resources/Data/sharedassets1.assets</key>
 		<data>
-		nqlZhGFX9sytxI8Ptub/aSwVGnE=
+		lfVNF5DNtKrKiF/wOmer2TJr7Eg=
 		</data>
 		<key>Resources/Data/sharedassets1.assets.resS</key>
 		<data>
@@ -422,7 +422,7 @@
 		</data>
 		<key>Resources/DefaultPreferences.plist</key>
 		<data>
-		m+skEuVL9+bRou8LnQNHgBqvbyI=
+		3DR96mnSSgPY7DcLeXS3+p5xOMM=
 		</data>
 		<key>Resources/MainMenu.nib/designable.nib</key>
 		<data>
@@ -596,7 +596,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			86vZr+xuhsuHLkSg0kdlcvi3zScMUaH9FxoMQSqyr/c=
+			WJqfogJ8ZSdtD4LYzDeuZMVasb3e37rv/DttbLcPT5A=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Cinemachine.dll</key>
@@ -1240,14 +1240,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HSyCFbJWcSLcNdiy6EGH7qzhVx30t4Qpvc1DCWOHCD8=
+			It6E6opAmQ/MONqKXEH/PxK0+z6ABgupqK3vEajOdpg=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6p+fCmJWnYhXmI7m1Q9VX+7qHrQ3k864Blapcp1+XQ=
+			N20ksMEQ7Q+jYjb1ig27Gr9eQpNlKU0Qndd1X4GiehM=
 			</data>
 		</dict>
 		<key>Resources/Data/level0</key>
@@ -1261,7 +1261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gc6Bq6Pue/RYhlmp7fcxwYDMSkJc6bmxjsNFF82wfNA=
+			DIzgBjJoOhu6+yTwK4rJx0+g4r5f0bD9i2HiLlcO7kw=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets</key>
@@ -1282,7 +1282,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T+wg+nSkHDnRBhIuYA0KywLU+T/e/LBU1azENk5QDIY=
+			9uY35MSE39axbgk5Slj8F9G7FziVMNnjiJv49/yyyRw=
 			</data>
 		</dict>
 		<key>Resources/Data/sharedassets0.assets.resS</key>
@@ -1303,7 +1303,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZEKW3n+RQyn5Q7P9iU5MFDCnMceojACvJ/o60kheGCk=
+			BIhUPbtEOLYbU4gqpLnoUZmWzO8RMXkCm26iv1D7Pyc=
 			</data>
 		</dict>
 		<key>Resources/Data/sharedassets1.assets.resS</key>
@@ -1324,7 +1324,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ggnO3AxYrvb/mCmaQe50LkvbBDGAx93yPKY+Axu2XmM=
+			C3RIqHCqGVPBh7OIqo9tsgostvL0m7526fXUhUsbmcg=
 			</data>
 		</dict>
 		<key>Resources/MainMenu.nib/designable.nib</key>

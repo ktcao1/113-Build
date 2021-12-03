@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 <key>Screenmanager Is Fullscreen mode</key>
-<string>False</string>
+<string>True</string>
 </dict>
 </plist>
