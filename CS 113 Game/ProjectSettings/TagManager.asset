@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SpawnPoint
+  - Rooms
+  - DungeonGenerator
+  - Portal
+  - PortalExit
+  - RoomTiles
+  - StartRoom
+  - Obstacle
+  - MMCam
+  - References
+  - ChestPanel
+  - ConfirmPanel
+  - WorldChestPanel
+  - brick
+  - SoundDevice
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Actor
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: CollisionMap
+    uniqueID: 2537453023
+    locked: 0
+  - name: NavMesh
+    uniqueID: 1341294037
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1582801595
+    locked: 0
+  - name: Wall
+    uniqueID: 4010503275
+    locked: 0
+  - name: Doors
+    uniqueID: 596640535
+    locked: 0
+  - name: Object
+    uniqueID: 3253485749
+    locked: 0
+  - name: Actor
+    uniqueID: 325672235
+    locked: 0
+  - name: CharacterUI
+    uniqueID: 4286317563
+    locked: 0
+  - name: FrontWall
+    uniqueID: 2153768035
+    locked: 0
+  - name: FrontDoors
+    uniqueID: 3778691715
+    locked: 0
